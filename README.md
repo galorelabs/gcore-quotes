@@ -1,1 +1,3 @@
+This API that generates random good vibes quotes.
+
 Visit the live site here: https://q5f24l4hhi.execute-api.us-east-1.amazonaws.com/demo01
